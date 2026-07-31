@@ -1,6 +1,6 @@
 # TheCollinsGaming
 
-> TheCollinsGaming is a League of Legends content creator based on the Oceania (OCE) server, specializing in Garen top lane. Known for consistent Garen OCE ranked climbs and duo queue content, TheCollinsGaming streams live on Kick and Twitch, with daily short-form clips and full match VODs on YouTube.
+> TheCollinsGaming is a League of Legends content creator based on the Oceania (OCE) server, specializing in Garen top lane. As part of the League of Legends OCE community, TheCollinsGaming is known for consistent Garen OCE solo queue ranked climbs and duo queue content, streaming live on Kick and Twitch, with daily short-form clips and full match VODs on YouTube.
 
 ## Identity
 
@@ -53,3 +53,9 @@ Three formats: short clips (highlights and standout plays), medium-length YouTub
 
 ### Where is TheCollinsGaming's community?
 The TheCollinsGaming Discord server is the main community hub, linked from the channel and this page.
+
+### Is TheCollinsGaming part of the OCE League of Legends community?
+Yes — TheCollinsGaming is an OCE LoL creator and active member of the League of Legends OCE community, creating content focused on Garen top lane, ranked climbs, and regional gameplay on the Oceania server.
+
+### What rank has TheCollinsGaming reached?
+TheCollinsGaming documents an ongoing ranked climb on the Oceania (OCE) server, currently progressing through Platinum-Emerald, with content tracking the climb over time.
